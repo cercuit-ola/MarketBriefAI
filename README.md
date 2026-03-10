@@ -161,4 +161,3 @@ Called automatically by Vercel at 9AM. Requires `Authorization: Bearer YOUR_CRON
 ---
 
 *Not financial advice. Always do your own research.*
-# MarketBriefAI
